@@ -2,8 +2,8 @@
 
 <br/>
 <a href="https://www.linkedin.com/in/laurine-lafontaine-826545148">
-  <img align="left" alt="Linkedin" width="30px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
+  <img align="left" alt="Linkedin" width="20px" src="https://image.flaticon.com/icons/svg/174/174857.svg" />
+</a> <br/>
 
 :mortar_board: I'm a **french student [@IMAC](https://www.ingenieur-imac.fr/)**<br/>
 
@@ -15,4 +15,4 @@ Things that I am into :
 
 :e-mail: Reach me for anything at : <laurine.lafontaine@outlook.fr>
 
-[Visitor Count](https://profile-counter.glitch.me/{LafLaurine}/count.svg)
+![](https://profile-counter.glitch.me/{LafLaurine}/count.svg)
