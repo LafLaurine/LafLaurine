@@ -18,5 +18,3 @@
 [![LafLaurine's repo](https://github-readme-stats.vercel.app/api/pin/?username=LafLaurine&repo=imac2-memoire-ircgn&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 #### :e-mail: Reach me for anything at : <laurine.lafontaine@outlook.fr>
-
-![](https://profile-counter.glitch.me/{LafLaurine}/count.svg)
