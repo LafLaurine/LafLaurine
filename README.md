@@ -5,9 +5,7 @@
 [![LafLaurine's github stats](https://github-readme-stats.vercel.app/api?username=LafLaurine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
 #### :mortar_board: I'm a **french student [@IMAC](https://www.ingenieur-imac.fr/)**
-#### You can find me on <p align="center">
-<a href="https://linkedin.com/in/laurine-lafontaine-826545148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laurine-lafontaine-826545148" height="30" width="30" /></a>
-</p> <br/>
+#### You can find me on <a href="https://linkedin.com/in/laurine-lafontaine-826545148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laurine-lafontaine-826545148" height="20" width="20" /></a>
 
 #### :notebook: I’m always learning new things and try to improve myself. <br/>
 #### Things that I am into :
