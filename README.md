@@ -7,7 +7,7 @@
 #### :mortar_board: I'm a **french student [@IMAC](https://www.ingenieur-imac.fr/)**
 #### You can find me on <a href="https://linkedin.com/in/laurine-lafontaine-826545148" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="laurine-lafontaine-826545148" height="20" width="20" /></a>
 
-#### My friends and I are working on a [blog](https://learn-computer-graphics.github.io/blog/README.html) about mathematics and machine learning in computer graphics. We also have a [Github organization](https://github.com/learn-computer-graphics)
+#### My friends and I are working on a [blog](https://learn-computer-graphics.com/) about mathematics and machine learning in computer graphics. We also have a [Github organization](https://github.com/learn-computer-graphics)
 
 #### I'm currently working on a deep learning project about image denoising. I've done a [dev blog](https://laurine-dev-blog.herokuapp.com/) about it.
 
