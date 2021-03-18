@@ -16,6 +16,8 @@
   - :computer: Computer Vision
   - :chart_with_upwards_trend: Data Science
   - :brain: Deep learning
+
+#### Don't forget to checkout my [Gitlab](https://gitlab.com/LafLaurine) where is stored one of my favorite project ever : [Evil Age](https://gitlab.com/guillaume-haerinck/evil-age), that is an AI simulation of a medieval village made in Unreal Engine 4, with the one and only [Guillaume HAERINCK](https://guillaumehaerinck.com)
   
 #### My favorite tools :
 <p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/cmake/cmake-ar21.svg" alt="cmake" width="40" height="40"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" width="40" height="40"/> 
