@@ -4,7 +4,7 @@
 
 [![LafLaurine's github stats](https://github-readme-stats.vercel.app/api?username=LafLaurine&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br/>
 
-#### :mortar_board: I'm a french AI engineer working at [Harfanglab](https://www.harfanglab.io/). I graduated from [@IMAC](https://www.ingenieur-imac.fr/)**
+#### :mortar_board: I'm a french AI engineer working at [Harfanglab](https://www.harfanglab.io/). I graduated from [@IMAC](https://www.ingenieur-imac.fr/)
 
 #### You can find me on <a href="https://linkedin.com/in/laurine-lafontaine-826545148" target="blank">LinkedIn</a>
 
